@@ -1,51 +1,51 @@
 Group,Quarter,Year,Topic,Special,Word_Count,Graph_Count,Table_Count
-1,WI,20,TASTE,False,3418,9,0
-2,WI,20,IMPACT,False,3456,19,4
-3,WI,20,BUSINESS,False,2073,10,14
-7,WI,20,POLITICS,False,4967,16,20
-8,WI,20,POLITICS,False,2901,10,8
-10,WI,20,EDUCATION,False,3261,12,3
-11,WI,20,POLITICS,False,3012,15,7
-12,WI,20,POLITICS,False,3507,8,32
-16,WI,20,ENTERTAINMENT,False,2837,8,5
-17,WI,20,HEALTHY LIVING,False,3435,7,13
-19,WI,20,EDUCATION,False,7692,46,26
-20,WI,20,HEALTHY LIVING,False,4730,22,14
-21,WI,20,BUSINESS,False,3579,11,13
-22,WI,20,BUSINESS,False,6430,18,23
-24,WI,20,BUSINESS,False,2889,2,11
-25,WI,20,POLITICS,False,3422,8,13
-26,WI,20,SPORTS,False,2739,30,58
-28,WI,20,BUSINESS,False,3496,14,5
-29,WI,20,POLITICS,False,4420,16,24
-30,WI,20,BUSINESS,False,2643,65,10
-31,WI,20,BUSINESS,False,3561,24,21
-35,WI,20,TASTE,False,5565,19,0
-36,WI,20,TRAVEL,False,6173,33,37
-50,WI,20,ARTS & CULTURE,False,2105,41,20
-54,WI,20,HEALTHY LIVING,False,9041,20,35
-57,WI,20,BUSINESS,False,2477,5,0
-58,WI,20,BUSINESS,False,2984,17,9
-60,WI,20,CRIME,False,2301,4,5
-62,WI,20,IMPACT,False,4161,15,7
-66,WI,20,BUSINESS,False,2894,11,5
-67,WI,20,SPORTS,False,2499,8,0
-68,WI,20,TASTE,False,4961,17,5
-69,WI,20,IMPACT,False,5396,22,19
-70,WI,20,BUSINESS,False,2724,12,0
-71,WI,20,TASTE,False,4850,8,14
-73,WI,20,ENTERTAINMENT,False,2319,17,2
-76,WI,20,EDUCATION,False,4928,36,2
-77,WI,20,BUSINESS,False,2919,7,5
-78,WI,20,POLITICS,False,2802,9,2
-79,WI,20,BUSINESS,False,3172,7,5
-81,WI,20,IMPACT,False,3510,10,5
-83,WI,20,IMPACT,False,2493,11,8
-85,WI,20,HEALTHY LIVING,False,3030,9,4
-86,WI,20,IMPACT,False,2402,17,5
-87,WI,20,IMPACT,False,2791,12,1
-88,WI,20,HEALTHY LIVING,False,5056,30,29
-92,WI,20,HEALTHY LIVING,False,8309,8,11
-93,WI,20,IMPACT,False,2617,5,6
-94,WI,20,BUSINESS,False,3005,17,1
-96,WI,20,WORLDPOST,False,3408,7,21
+1,WI,20,technology and computing,False,3418,9,0
+2,WI,20,sports,False,3456,19,4
+3,WI,20,automotive,False,2070,10,14
+7,WI,20,news and politics,False,4967,16,20
+8,WI,20,medical health,False,2901,10,8
+10,WI,20,personal finance,False,3261,12,3
+11,WI,20,travel,False,3012,15,7
+12,WI,20,news and politics,False,3507,8,32
+16,WI,20,sports,False,2837,8,5
+17,WI,20,medical health,False,3435,7,13
+19,WI,20,education,False,7692,46,26
+20,WI,20,medical health,False,4730,22,14
+21,WI,20,technology and computing,False,3579,11,13
+22,WI,20,medical health,False,6430,18,23
+24,WI,20,business and finance,False,2889,2,11
+25,WI,20,medical health,False,3419,8,13
+26,WI,20,sports,False,2739,30,58
+28,WI,20,technology and computing,False,3494,14,5
+29,WI,20,news and politics,False,4418,16,24
+30,WI,20,business and finance,False,2640,65,10
+31,WI,20,travel,False,3561,24,21
+35,WI,20,food and drink,False,5565,19,0
+36,WI,20,business and finance,False,6171,33,37
+50,WI,20,video gaming,False,2102,41,20
+54,WI,20,medical health,False,9041,20,35
+57,WI,20,music and audio,False,2474,5,0
+58,WI,20,religion and spirituality,False,2984,17,9
+60,WI,20,news and politics,False,2301,4,5
+62,WI,20,medical health,False,4159,15,7
+66,WI,20,technology and computing,False,2892,11,5
+67,WI,20,sports,False,2499,8,0
+68,WI,20,medical health,False,4959,17,5
+69,WI,20,family and relationships,False,5393,22,19
+70,WI,20,personal finance,False,2724,12,0
+71,WI,20,personal finance,False,4850,8,14
+73,WI,20,technology and computing,False,2319,17,2
+76,WI,20,personal finance,False,4928,36,2
+77,WI,20,hobbies and interests,False,2917,7,5
+78,WI,20,news and politics,False,2802,9,2
+79,WI,20,books and literature,False,3169,7,5
+81,WI,20,technology and computing,False,3507,10,5
+83,WI,20,healthy living,False,2493,11,8
+85,WI,20,business and finance,False,3030,9,4
+86,WI,20,hobbies and interests,False,2400,17,5
+87,WI,20,personal finance,False,2791,12,1
+88,WI,20,medical health,False,5053,30,29
+92,WI,20,business and finance,False,8309,8,11
+93,WI,20,business and finance,False,2617,5,6
+94,WI,20,personal finance,False,3002,17,1
+96,WI,20,automotive,False,3408,7,21

@@ -1,48 +1,48 @@
 Group,Quarter,Year,Topic,Special,Word_Count,Graph_Count,Table_Count
-2,SP,21,EDUCATION,False,4399,20,20
-3,SP,21,EDUCATION,False,4065,3,28
-4,SP,21,POLITICS,False,3479,12,21
-5,SP,21,IMPACT,False,2691,10,38
-6,SP,21,POLITICS,False,5117,22,39
-7,SP,21,SPORTS,False,5020,24,23
-8,SP,21,BUSINESS,False,6841,34,8
-9,SP,21,BUSINESS,False,3552,8,7
-11,SP,21,POLITICS,True,4615,15,22
-13,SP,21,ARTS & CULTURE,False,1922,6,1
-14,SP,21,POLITICS,False,6484,65,38
-15,SP,21,GREEN,False,4186,12,52
-16,SP,21,POLITICS,False,3580,11,9
-17,SP,21,ENTERTAINMENT,False,7383,21,28
-19,SP,21,ENTERTAINMENT,False,5863,43,12
-21,SP,21,HEALTHY LIVING,False,4617,15,9
-23,SP,21,HEALTHY LIVING,False,5101,16,10
-26,SP,21,BUSINESS,False,2588,20,1
-27,SP,21,BUSINESS,False,1543,18,4
-29,SP,21,SPORTS,True,6585,15,10
-30,SP,21,TECH,False,3973,19,28
-31,SP,21,POLITICS,False,4339,7,28
-32,SP,21,IMPACT,False,4025,8,20
-33,SP,21,HEALTHY LIVING,False,5363,26,8
-35,SP,21,POLITICS,False,3546,28,12
-36,SP,21,HEALTHY LIVING,False,4920,19,5
-37,SP,21,BUSINESS,False,1904,17,4
-38,SP,21,POLITICS,False,2103,3,1
-39,SP,21,HEALTHY LIVING,False,1929,6,0
-40,SP,21,ARTS & CULTURE,False,2504,7,5
-41,SP,21,SPORTS,False,3027,4,3
-42,SP,21,IMPACT,False,3727,14,11
-43,SP,21,IMPACT,False,6651,18,12
-44,SP,21,SPORTS,False,4806,5,16
-45,SP,21,HEALTHY LIVING,False,5220,28,19
-46,SP,21,POLITICS,False,2846,24,5
-47,SP,21,ARTS & CULTURE,False,1445,8,1
-49,SP,21,HEALTHY LIVING,False,2785,11,7
-50,SP,21,POLITICS,True,5232,31,27
-51,SP,21,BUSINESS,False,5735,17,76
-52,SP,21,HEALTHY LIVING,False,4208,22,18
-53,SP,21,HEALTHY LIVING,False,1918,3,6
-55,SP,21,GREEN,False,4229,25,14
-58,SP,21,POLITICS,False,5782,23,28
-59,SP,21,HEALTHY LIVING,False,5026,13,28
-60,SP,21,CRIME,False,2854,11,6
-67,SP,21,SPORTS,False,2577,9,11
+2,SP,21,careers,False,4397,20,20
+3,SP,21,personal finance,False,4063,3,28
+4,SP,21,food and drink,False,3477,12,21
+5,SP,21,business and finance,False,2689,10,38
+6,SP,21,travel,False,5115,22,39
+7,SP,21,sports,False,5018,24,23
+8,SP,21,business and finance,False,6841,34,8
+9,SP,21,style and fashion,False,3550,8,7
+11,SP,21,hobbies and interests,True,4613,15,22
+13,SP,21,video gaming,False,1920,6,1
+14,SP,21,news and politics,False,6482,65,38
+15,SP,21,automotive,False,4184,12,52
+16,SP,21,pop culture,False,3578,11,9
+17,SP,21,books and literature,False,7381,21,28
+19,SP,21,hobbies and interests,False,5861,43,12
+21,SP,21,automotive,False,4615,15,9
+23,SP,21,medical health,False,5099,16,10
+26,SP,21,religion and spirituality,False,2586,20,1
+27,SP,21,education,False,1541,18,4
+29,SP,21,sports,True,6583,15,10
+30,SP,21,video gaming,False,3971,19,28
+31,SP,21,medical health,False,4337,7,28
+32,SP,21,business and finance,False,4023,8,20
+33,SP,21,medical health,False,5361,26,8
+35,SP,21,business and finance,False,3544,28,12
+36,SP,21,business and finance,False,4918,19,5
+37,SP,21,business and finance,False,1902,17,4
+38,SP,21,news and politics,False,2101,3,1
+39,SP,21,food and drink,False,1927,6,0
+40,SP,21,books and literature,False,2502,7,5
+41,SP,21,sports,False,3025,4,3
+42,SP,21,family and relationships,False,3725,14,11
+43,SP,21,news and politics,False,6649,18,12
+44,SP,21,medical health,False,4804,5,16
+45,SP,21,technology and computing,False,5218,28,19
+46,SP,21,news and politics,False,2846,24,5
+47,SP,21,travel,False,1442,8,1
+49,SP,21,medical health,False,2783,11,7
+50,SP,21,medical health,True,5230,31,27
+51,SP,21,style and fashion,False,5733,17,76
+52,SP,21,personal finance,False,4206,22,18
+53,SP,21,automotive,False,1916,3,6
+55,SP,21,medical health,False,4229,25,14
+58,SP,21,personal finance,False,5780,23,28
+59,SP,21,medical health,False,5024,13,28
+60,SP,21,events and attractions,False,2852,11,6
+67,SP,21,sports,False,2575,9,11
