@@ -1,3 +1,5 @@
+FINAL VIDEO: https://drive.google.com/file/d/1FmuZTLX86yj3c5WypM9UoKZjXiAfn7M1/view?usp=sharing
+
 This is your group repo for your final project for COGS108.
 
 This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
